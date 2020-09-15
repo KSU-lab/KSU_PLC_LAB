@@ -1,0 +1,53 @@
+04/21/10 15:13:17 
+04/21/10 15:13:18 ******************
+04/21/10 15:13:18 Module Info:
+04/21/10 15:13:18 Path  : C:\Program Files\Siemens\SIMATIC WinCC flexible\WinCC flexible 2005\Transfer\TransferTool.exe
+04/21/10 15:13:18 ThreadID: 2988
+04/21/10 15:13:18 ******************
+04/21/10 15:13:18 ------------------
+04/21/10 15:13:18 Starting Transfer:
+04/21/10 15:13:18 ProjectPath: C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1
+04/21/10 15:13:18 PDZ does not exist, skip backtransfer support.
+04/21/10 15:13:18   reading transfer info file: C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).transfer
+04/21/10 15:13:18   checking delivery version directory : C:\Program Files\Siemens\SIMATIC WinCC flexible\WinCC flexible 2005\Transfer\\1.1
+04/21/10 15:13:18    directory exists!
+04/21/10 15:13:18 DeviceName : PROJECT_1.SIMATIC HMI Station(1)
+04/21/10 15:13:18 ProjectName: PROJECT_1
+04/21/10 15:13:18 DeviceType : TP170BCOLORI06_V0407
+04/21/10 15:13:18 DeviceVers.: 0407
+04/21/10 15:13:18 DeliveryV. : 1.1
+04/21/10 15:13:18 Settings   : MPI;
+04/21/10 15:13:18 Params     : STORE_IN_FLASH DELTA_ON OVERWRITE_RECIPES
+04/21/10 15:13:18 FWX-Path   : C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).fwx
+04/21/10 15:13:18 PDZ-Path   : 
+04/21/10 15:13:18 Routing via MPI: 2 to  PROFIBUS: 3
+04/21/10 15:13:20   loaded DeviceMapping for tp170bcolori06_v0407: TP170BC, XP170B, tr_ce_hmies.dll
+04/21/10 15:13:20 zipping 
+04/21/10 15:13:20   checking access to C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).recipe.zip
+04/21/10 15:13:20   File C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).recipe.zip not found! 
+04/21/10 15:13:20   checking access to directory C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1
+04/21/10 15:13:20   access ok.
+04/21/10 15:13:20 No recipe files to zip!
+04/21/10 15:13:20 zipping failed!
+04/21/10 15:13:20   checking access to C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).tfx
+04/21/10 15:13:20   File C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).tfx not found! 
+04/21/10 15:13:20   checking access to directory C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1
+04/21/10 15:13:20   access ok.
+04/21/10 15:13:20 starting Transferthread...
+04/21/10 15:13:20   Mapped tp170bcolori06_v0407 to TP170BC
+04/21/10 15:13:20     TP170BC, C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).fwx
+04/21/10 15:13:25 Connection being established to device...
+04/21/10 15:13:28 Please wait until RT has been shut down.
+04/21/10 15:13:29 Fetching information from device.
+04/21/10 15:13:31 Downloading being prepared!
+04/21/10 15:13:40 File 1 of 2  being transferred...
+  'FWBASERES409.DLL' .
+04/21/10 15:13:40 The 'C:\Program Files\Siemens\Step7\S7Proj\VENTIL\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1).fwx' file is being prepared for downloading.
+04/21/10 15:13:41 File 2 of 2  being transferred...
+  'PDATA-Patchdata (369 bytes)' .
+04/21/10 15:13:42 Download has been completed. The device will now perform additional installation steps. 
+04/21/10 15:13:44 
+04/21/10 15:13:44 Downloading successful.
+04/21/10 15:13:47 Transfer Finished
+04/21/10 15:13:47 End Transferthread...
+04/21/10 15:13:47 ------------------

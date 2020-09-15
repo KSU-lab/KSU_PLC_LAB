@@ -1,0 +1,15 @@
+﻿ES2RT linker log file created on пятница, 31 мая 2019 г. 16:18:31
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], caused in [ LinkerClass ]
+0 errors, 7 warnings - succeeded.
+
+Writing "I:\Study\PLC\Soft\VENTIL\new_plc_hmi\VENTIL_2015\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI Station(1)"...
+Done.

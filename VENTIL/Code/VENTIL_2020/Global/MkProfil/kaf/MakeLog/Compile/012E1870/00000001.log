@@ -1,0 +1,21 @@
+04/21/10 15:11:00           
+04/21/10 15:11:00          Starting Compiling: 
+04/21/10 15:11:00          ------------------- 
+04/21/10 15:11:00 Info     Compiling started ... 
+04/21/10 15:11:00 Info     Compiling 2 delta steps ... 
+04/21/10 15:11:03 Info     Synchronization of STEP 7 / SIMOTION data started: 15:11:02 
+04/21/10 15:11:23 Info     ... synchronizing STEP 7 / SIMOTION data: 15:11:23 
+04/21/10 15:11:43 Info     ... synchronizing STEP 7 / SIMOTION data: 15:11:43 
+04/21/10 15:12:03 Info     ... synchronizing STEP 7 / SIMOTION data: 15:12:03 
+04/21/10 15:12:23 Info     ... synchronizing STEP 7 / SIMOTION data: 15:12:23 
+04/21/10 15:12:53 Info     Linking target 'SIMATIC HMI Station(1)' ... 
+04/21/10 15:12:56 Warning  Internal warning (detail: screen element Button_3 (17fd05a9-556f-47c7-8156-a302073cf7d9) of type Button was created by GeneratorHmiScreen (screen Screen_3) - object type: SCREEN_ITEM). 
+04/21/10 15:12:56 Warning  Internal warning (detail: screen element Text Field_2 (ebc11f97-2489-4b7d-92cd-c8d5c236306b) of type TextField was created by GeneratorHmiScreen (screen Screen_3) - object type: SCREEN_ITEM). 
+04/21/10 15:12:56 Warning  Internal warning (detail: screen element Text Field_4 (68f6b0a9-e495-433d-b129-4b4f76eba5be) of type TextField was created by GeneratorHmiScreen (screen Screen_3) - object type: SCREEN_ITEM). 
+04/21/10 15:12:56 Warning  Internal warning (detail: screen element Text Field_3 (46098baf-2858-4abd-a7b3-76dd31bcfe44) of type TextField was created by GeneratorHmiScreen (screen Screen_3) - object type: SCREEN_ITEM). 
+04/21/10 15:12:59 Warning  Internal warning (detail: proxy relation from VIEW_BUTTONS a101a4f1-ef88-49aa-8c22-b5d573e88fb7 to object 79a9cd8b-cd59-4404-a164-f215550d0a63 was skipped, failed to get target object key from target id). 
+04/21/10 15:12:59 Warning  Internal warning (detail: proxy relation from VIEW_BUTTONS ee442625-9865-4af5-998f-6865620b7cbb to object 86351c1d-5114-4935-b847-7eb7144b992f was skipped, failed to get target object key from target id). 
+04/21/10 15:12:59 Warning  Internal warning (detail: ordered relation from FUNC_LIST 65cbfd52-59d3-4169-8224-7844fd93b4c2 to object ec823746-fba0-43df-913d-7f21b4a7f5d6 was skipped, failed to get target object key from target id). 
+04/21/10 15:12:59 Info     Succeeded with 0 error(s), 7 warning(s). 
+04/21/10 15:13:00 Info     Time stamp: 21.04.2010 15:13 - used 55888 bytes of maximal 860160 bytes 
+04/21/10 15:13:00 Info     Compiling finished! 

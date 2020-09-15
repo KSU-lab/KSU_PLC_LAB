@@ -1,0 +1,38 @@
+﻿ES2RT linker log file created on 14 вересня 2020 р. 16:49:55
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ SymbolInvalid ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Warning - Resource Id [ TrendTagMustBeCyclicContinuous ], containing object type [ Warning ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 29 warnings - succeeded.
+
+Writing "C:\Siemens_PLC\VENTIL\Code\VENTIL_2020\HmiEs\PROJECT_4\PROJECT_4.SIMATIC HMI Station(2)"...
+Done.

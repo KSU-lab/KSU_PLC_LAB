@@ -1,0 +1,16 @@
+B0 - JOG right
+B1 - JOG left
+B2 - Control from PLC
+B3 - Reverse
+B4 - Empty bit
+B5 - Motor potentiometer MOP up
+B6 - Motor potentiometer MOP down
+B7 - Local/Remote
+B8 - Start/Stop1
+B9 - Stop2 (without brake)
+B10 - Stop3 (fast stop)
+B11 - Pulse enable
+B12 - RFG enable
+B13 - RFG start
+B14 - Setpoint enable
+B15 - Fault acknowledge

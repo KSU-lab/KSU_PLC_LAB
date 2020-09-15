@@ -1,0 +1,16 @@
+B0 - Deviation setp./ act. value
+B1 - PZD control
+B2 - Maximum frequency
+B3 - Warning: Motor current limit
+B4 - Motor holding brake
+B5 - Motor overload
+B6 - Motor runs direction
+B7 - Inverter overload
+B8 - Drive ready
+B9 - Drive ready to run
+B10 - Drive running
+B11 - Drive fault active
+B12 - Stop2 active
+B13 - Stop3 active
+B14 - ON inhibit active
+B15 - Drive warning active
