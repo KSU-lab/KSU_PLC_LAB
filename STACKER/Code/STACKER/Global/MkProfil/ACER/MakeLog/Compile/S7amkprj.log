@@ -1,0 +1,20 @@
+
+Date: 09/15/2020  time: 03:11:56 PM
+Compile:
+PROJEKT_L\SIMATIC 300(1)\Hardware
+-> Object was compiled without errors
+
+
+Date: 09/15/2020  time: 03:11:56 PM
+Compile:
+PROJEKT_L\SIMATIC 300(1)\CPU 315-2 DP\Connections
+-> Object was compiled without errors
+
+
+Date: 09/15/2020  time: 03:11:57 PM
+Compile:
+PROJEKT_L\SIMATIC 300(1)\FM 354 SERVO\Program(36)\Blocks
+-> Error occurred compiling the object
+
+1: DB1200  [ParaTool: DB with DBT]
+
